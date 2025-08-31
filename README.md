@@ -42,7 +42,7 @@ https://www.kicad.org/
 
 | DATE   | SESSION Title | LINK |
 |--------|---------------|------|
-| Sep 3  | Introduction to Schematics | [Week 01]() |
+| Sep 3  | Introduction to Schematics | [Week 01](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week01) |
 | Sep 10 | Schematics Continued | [Week 02]() |
 | Sep 17 | Introduction to Layout | [Week 03]() |
 | Sep 24 | Layout Continued | [Week 04]() |
