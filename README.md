@@ -43,14 +43,14 @@ https://www.kicad.org/
 | DATE   | SESSION Title | LINK |
 |--------|---------------|------|
 | Sep 3  | Introduction to Schematics | [Week 01](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week01) |
-| Sep 10 | Schematics Continued | [Week 02]() |
-| Sep 17 | Introduction to Layout | [Week 03]() |
-| Sep 24 | Layout Continued | [Week 04]() |
-| Oct 1  | Open Work Session | [Week 05]() |
-| Oct 22 | Soldering Week 1 | [Week 06]() |
-| Oct 29 | Soldering Week 2 | [Week 07]() |
-| Nov 5  | Soldering Week 3 | [Week 08]() |
-| Nov 12 | Final Notes and Next Steps | [Week 09]() |
+| Sep 10 | Schematics Continued | [Week 02](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week02) |
+| Sep 17 | Introduction to Layout | [Week 03](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week03) |
+| Sep 24 | Layout Continued | [Week 04](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week04) |
+| Oct 1  | Open Work Session | [Week 05](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week05) |
+| Oct 22 | Soldering Week 1 | [Week 06](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week06) |
+| Oct 29 | Soldering Week 2 | [Week 07](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week07) |
+| Nov 5  | Soldering Week 3 | [Week 08](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week08) |
+| Nov 12 | Final Notes and Next Steps | [Week 09](https://github.com/IEEE-U-of-U/IEEE-PCB-Workshop-Fall-2025/tree/main/Week09) |
 
 While it is recommended to attend all sessions, we will provide the design and workshop files through a GitHub repository. To stay up to date, please be sure to follow along to not fall behind.
 
