@@ -19,7 +19,7 @@ Sept 10th, 2025
 
 ## Recording
 
-Recording posted to YouTube: TBD
+Recording posted to YouTube: https://www.youtube.com/watch?v=6XEiJGNwWo4
 
 ## Files
 ### Altium Design File Reference.zip
