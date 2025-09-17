@@ -19,14 +19,14 @@ Sept 10th, 2025
 
 ## Recording
 
-Recording posted to YouTube: TBD
+Recording posted to YouTube: https://www.youtube.com/watch?v=6XEiJGNwWo4
 
 ## Files
 ### Altium Design File Reference.zip
 Altium Files for the Week02 Workshop. Includes all necessary files to follow along in the session.
 
 ### Altium Workshop Week 02 - Schematics and Components.pdf
-Workshop introduction presentation. Used to cover a basic intro before covering the ECAD software.
+Workshop presentation covering schematic libraries and symbols. Also introduced external tools like SamacSys to assist with symbol creation.
 
 ### KiCAD Design File Reference.zip
-KiCAD Files and Library for the Week01 Workshop. Includes all necessary files to follow along for most of the session.
+KiCAD Files and Library for the Week02 Workshop. Includes all necessary files to follow along for most of the session.
